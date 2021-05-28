@@ -4,7 +4,7 @@ Simply calculate you BMI with this javascript package
 
 ## Docs
 
-`bmi(height,weight)` : 
+bmi(height,weight) : 
 > Calculate your bmi
 
 ### Example : 
@@ -29,7 +29,7 @@ Calculez simplemez votre IMC avec ce module en javascript
 
 ## Documentation
 
-bmi(height,weight) : 
+bmi(height,weight) 
 > Calcul votre imc
 
 ### Exemple : 
