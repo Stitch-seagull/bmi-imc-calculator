@@ -56,5 +56,3 @@ exports.setLanguage = function(language){
         chooseAdjs = Lists[languages.indexOf(language)]
     }
 }
-
-console.log(this.bmi(1.20,35))

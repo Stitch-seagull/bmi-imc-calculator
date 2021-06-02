@@ -9,7 +9,7 @@ bmi(height,weight) :
 
 ### Example : 
 ```javascript
-let util = require("bmi-imc-calculator")
+const util = require("bmi-imc-calculator")
 
 console.log(bmi(1.20,35))
 
@@ -34,7 +34,7 @@ bmi(height,weight)
 
 ### Exemple : 
 ```javascript
-let util = require("bmi-imc-calculator")
+const util = require("bmi-imc-calculator")
 
 console.log(bmi(1.20,35))
 
